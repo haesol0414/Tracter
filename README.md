@@ -24,7 +24,6 @@
 - 커뮤니티 댓글 CRUD
 <br />
 - 숙소 검색 기능
-<br />
 
 <br />
 <br />
@@ -35,10 +34,12 @@ Frontend : <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-bad
 <br />
 Backend : <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
+<br />
+<br />
+<br />
 
 ## 프로젝트 경험과 깨달음
 - 프레임워크 없이 바닐라 JS를 사용했던 프로젝트를 진행 할 당시, 프론트엔드 코치님께서 바닐라 JS를 쓰면서 DOM Element를 하나하나 꺼내오는 것에 대한 불편함을 느꼈다면 리액트를 쓰면서 편리함을 느낄 것이라 하셨던 말씀을 체감할 수 있었음.
 - 팀원들과 컴포넌트를 어떻게 나눌 것인가에 대한 토론을 통해 재사용성을 고려한 컴포넌트 구조를 설계하는 시간을 가짐.<br /> React를 사용하면서 컴포넌트 단위로 개발하는 편리함을 경험였고, 페이지 컴포넌트의 코드 수가 확연히 줄어드는 것을 느낌.
 - Recoil 라이브러리를 활용하여 전역 상태 관리를 구현해봄.
-<br /> Recoil, Redux와 같은 전역 상태관리 라이브러리를 사용하기에는 작은 프로젝트였지만, 큰 동작 원리를 알아보기에는 좋은 기회가 될 것 같아 Recoil 라이브러리를 사용.
-<br /> 어떤 정보를 전역으로 설정하는 것이 적절한지에 대한 고민을 해보게 되는 시간이였음.
+<br /> Recoil, Redux와 같은 전역 상태관리 라이브러리를 사용하기에는 작은 프로젝트였지만, 큰 동작 원리를 알아보기에는 좋은 기회가 될 것 같아 Recoil 라이브러리를 사용. 어떤 정보를 전역으로 설정하는 것이 적절한지에 대한 고민을 해보게 되는 시간이였음.
