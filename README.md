@@ -1,7 +1,6 @@
 # ❖ Trackter  
 <img width="708" alt="스크린샷 2023-11-20 오후 3 20 04" src="https://github.com/user-attachments/assets/87342a06-8756-42b8-be53-dd27c67995f5">
 <br />
-<br />
 - 여행(Travel) + 고르다(Select) + er = 트랙터(Tracter) 
 <br />
 - 간단한 테스트를 통해 나에게 맞는 숙소 유형을 알아볼 수 있고, 그에 맞는 숙소들을 둘러볼 수 있음 (호텔, 글램핑, 카라반 등)
@@ -17,7 +16,6 @@
 
 ## 담당 기능 (FE)
 <img width="708" alt="스크린샷 2023-11-20 오후 3 16 19" src="https://github.com/user-attachments/assets/da3c698a-90a9-4eab-be9b-9c30125bf633">
-<br />
 <br />
 - 커뮤니티 게시글 CRUD
 <br />
