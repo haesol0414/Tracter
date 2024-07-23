@@ -1,5 +1,7 @@
 # ❖ Trackter  
 <img width="708" alt="스크린샷 2023-11-20 오후 3 20 04" src="https://github.com/user-attachments/assets/87342a06-8756-42b8-be53-dd27c67995f5">
+<img width="708" alt="스크린샷 2024-07-23 오후 4 57 17" src="https://github.com/user-attachments/assets/38c97af0-0ecb-42ab-9d07-7a985778eb2d">
+
 <br />
 - 여행(Travel) + 고르다(Select) + er = 트랙터(Tracter) 
 <br />
